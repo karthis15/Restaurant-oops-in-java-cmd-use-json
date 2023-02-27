@@ -1,0 +1,52 @@
+[
+  {
+    "itemId": 1,
+    "itemName": "Vada",
+    "itemprice": 10
+  },
+  {
+    "itemId": 2,
+    "itemName": "Dosa",
+    "itemprice": 50
+  },
+  {
+    "itemId": 3,
+    "itemName": "Idli",
+    "itemprice": 20
+  },
+  {
+    "itemId": 4,
+    "itemName": "Bonda",
+    "itemprice": 30
+  },
+  {
+    "itemId": 5,
+    "itemName": "pizza",
+    "itemprice": 120
+  },
+  {
+    "itemId": 6,
+    "itemName": "soup",
+    "itemprice": 50
+  },
+  {
+    "itemId": 7,
+    "itemName": "Uttapam",
+    "itemprice": 20
+  },
+  {
+    "itemId": 8,
+    "itemName": "Upma",
+    "itemprice": 30
+  },
+  {
+    "itemId": 9,
+    "itemName": "Chicken 65",
+    "itemprice": 50
+  },
+  {
+    "itemId": 10,
+    "itemName": "Chicken Rice",
+    "itemprice": 100
+  }
+]
